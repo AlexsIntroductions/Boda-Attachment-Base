@@ -23,8 +23,6 @@ extern uint8_t indexMax;
 
 extern uint8_t indexMin;
 
-extern uint8_t bitMode;
-
 #define ATT_X 0xBF
 #define ATT_CIRCLE 0xDF
 #define ATT_TRIANGLE 0xEF

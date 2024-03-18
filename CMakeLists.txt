@@ -17,7 +17,11 @@ add_executable(main
 
 target_link_libraries(main
     pico_stdlib 
+    hardware_adc 
+    hardware_pwm
     hardware_spi
+    Servo
+    Finger
     Attachment
 )
 
