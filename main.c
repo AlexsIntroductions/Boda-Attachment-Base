@@ -93,6 +93,7 @@ void pwm_irq_init()
 
 int main()
 {
+
     stdio_init_all();
 
     initAttachment(&a);
@@ -156,6 +157,7 @@ void buttonThreeFunction()
     //     modeDown(&servos[i]);
     // }
     // return;
+    return;
 }
 
 // Button Four Function
@@ -167,6 +169,7 @@ void buttonFourFunction()
     //     modeUp(&servos[i]);
     // }
     // return;
+    return;
 }
 
 // Button Five Function
