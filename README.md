@@ -1,5 +1,5 @@
 # Boda Attachment Grip
-A Raspberry Pi Pico (rp2040) based Hand Grip to be attached as end effector to the Boda capstone project. 
+A Raspberry Pi Pico (rp2040) based repo to be attached as end effector to the Boda capstone project. 
 
 ## Description
 The Boda is a robotic arm that has interchangeable attachments that can be designed for a users use-case. The attachments are based on an rp2040 (Raspberry Pi Pico) that has been programmed using this repo.
